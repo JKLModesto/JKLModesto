@@ -67,9 +67,8 @@ Construo APIs rápidas, seguras e observáveis.
 </p>
 
 <img 
-  src="https://sdmntprwestus3.oaiusercontent.com/files/00000000-a3a4-61fd-bb6e-015eee4a9955/raw?se=2025-08-12T01%3A59%3A35Z&sp=r&sv=2024-08-04&sr=b&scid=d2ff0ced-e5f2-511b-a966-64e2e1d3fc33&skoid=c953efd6-2ae8-41b4-a6d6-34b1475ac07c&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-11T18%3A47%3A02Z&ske=2025-08-12T18%3A47%3A02Z&sks=b&skv=2024-08-04&sig=%2BVlh3Zgg6E/wvtyJxt22E5u5ZSj2%2Bsj2FrLucr%2BcNos%3D" 
-  width="200" 
-  style="border-radius: 15px;" 
+  src="https://drive.google.com/file/d/1A6hMspIX9L2IXENqWFOwjLVrIhuhNoTF/view?usp=sharing" 
+  width="200"
 />
 
 </td>
