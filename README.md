@@ -18,75 +18,73 @@ Construo APIs rápidas, seguras e observáveis.
 
 ---
 
-## 📊 GitHub + Stack
+<h2>📊 GitHub + Stack</h2>
+
+<!-- linha em branco aqui é importante -->
 
 <div align="center">
+  <table>
+    <tr>
+      <!-- Coluna: GitHub Stats -->
+      <td valign="top" width="50%">
+        <a href="https://github.com/JKLModesto">
+          <img src="https://github-readme-stats.vercel.app/api?username=JKLModesto&show_icons=true&count_private=true&hide_border=true&title_color=ff7f50&icon_color=ff7f50&text_color=ffffff&bg_color=0d1117" height="165" />
+        </a>
+        <br/>
+        <a href="https://github.com/JKLModesto">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKLModesto&layout=compact&hide_border=true&title_color=ff7f50&text_color=ffffff&bg_color=0d1117" height="165" />
+        </a>
+        <br/>
+        <a href="https://github.com/JKLModesto">
+          <img src="https://streak-stats.demolab.com?user=JKLModesto&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&theme=dark&ring=ff7f50&fire=ff7f50&currStreakLabel=ff7f50" height="165" />
+        </a>
+      </td>
 
-<table>
-  <tr>
-    <!-- Coluna GitHub Stats -->
-    <td valign="top">
-      <!-- Stats principais -->
-      <a href="https://github.com/JKLModesto">
-        <img src="https://github-readme-stats.vercel.app/api?username=JKLModesto&show_icons=true&count_private=true&hide_border=true&title_color=ff7f50&icon_color=ff7f50&text_color=ffffff&bg_color=0d1117" height="165" />
-      </a>
-      <br>
-      <!-- Linguagens mais usadas -->
-      <a href="https://github.com/JKLModesto">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKLModesto&layout=compact&hide_border=true&title_color=ff7f50&text_color=ffffff&bg_color=0d1117" height="165" />
-      </a>
-      <br>
-      <!-- Streak -->
-      <a href="https://github.com/JKLModesto">
-        <img src="https://streak-stats.demolab.com?user=JKLModesto&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&theme=dark&ring=ff7f50&fire=ff7f50&currStreakLabel=ff7f50" height="165" />
-      </a>
-    </td>
+      <!-- Coluna: Stack -->
+      <td valign="top" width="50%">
+        <!-- Linguagens & Runtime -->
+        <p>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
+          <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" />
+        </p>
 
-    <!-- Coluna Stack -->
-    <td valign="top" style="padding-left: 20px;">
-      <!-- Linguagens & Runtime -->
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=fff" />
-      </p>
+        <!-- Frameworks & Libs -->
+        <p>
+          <img src="https://img.shields.io/badge/NestJS-EA2845?logo=nestjs&logoColor=fff" />
+          <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff" />
+          <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff" />
+        </p>
 
-      <!-- Frameworks & Libs -->
-      <p>
-        <img src="https://img.shields.io/badge/NestJS-EA2845?logo=nestjs&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=fff" />
-      </p>
+        <!-- ORM & Banco -->
+        <p>
+          <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff" />
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff" />
+        </p>
 
-      <!-- ORM & Banco -->
-      <p>
-        <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=fff" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff" />
-      </p>
+        <!-- Mensageria & Jobs -->
+        <p>
+          <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff" />
+          <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=fff" />
+        </p>
 
-      <!-- Mensageria & Jobs -->
-      <p>
-        <img src="https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=fff" />
-        <img src="https://img.shields.io/badge/RabbitMQ-FF6600?logo=rabbitmq&logoColor=fff" />
-      </p>
+        <!-- Infra & Observabilidade -->
+        <p>
+          <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
+          <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" />
+          <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff" />
+        </p>
 
-      <!-- Infra & Observabilidade -->
-      <p>
-        <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff" />
-        <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=fff" />
-      </p>
-
-      <!-- IA & Automação -->
-      <p>
-        <img src="https://img.shields.io/badge/n8n-F05A24?logo=n8n&logoColor=fff" />
-        <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff" />
-      </p>
-    </td>
-  </tr>
-</table>
-
+        <!-- IA & Automação -->
+        <p>
+          <img src="https://img.shields.io/badge/n8n-F05A24?logo=n8n&logoColor=fff" />
+          <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=fff" />
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 ---
 
