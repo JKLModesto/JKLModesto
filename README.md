@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Olá, eu sou **Pedro Modesto**
+# 👋 Olá, **Pedro Modesto** aqui!
 
 **Backend Engineer · Node.js | TypeScript | Arquitetura de Sistemas**
 
