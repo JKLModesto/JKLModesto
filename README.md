@@ -67,7 +67,7 @@ Construo APIs rápidas, seguras e observáveis.
 </p>
 
 <img 
-  src="https://drive.google.com/file/d/1A6hMspIX9L2IXENqWFOwjLVrIhuhNoTF/view?usp=sharing" 
+  src="https://github.com/JKLModesto/JKLModesto/blob/main/myCat.png?raw=true" 
   width="200"
 />
 
