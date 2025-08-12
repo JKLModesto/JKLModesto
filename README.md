@@ -81,10 +81,13 @@ Construo APIs rápidas, seguras e observáveis.
 ---
 
 ## 📈 Como eu trabalho
-- **Tests first** quando o domínio é crítico; caso contrário, **risk‑based testing**.
-- **Observabilidade por padrão**: logs estruturados + métricas + traces com correlação.
-- **Documentação viva** (OpenAPI + README por serviço + ADRs curtos).
-- **Perf consciente**: índices certos, N+1 sob controle, limites e timeouts na borda.
+
+- **Foco em entregar valor rápido sem sacrificar qualidade** — penso nas entregas como ciclos curtos, validando cedo para evitar retrabalho e permitir ajustes rápidos.
+- **Clareza na comunicação** — mantenho times e clientes alinhados com updates objetivos, reduzindo ruído e acelerando decisões.
+- **Mentalidade de dono** — trato cada sistema como se fosse meu: cuido de arquitetura, código, segurança e operação em produção.
+- **Resolução pragmática de problemas** — priorizo soluções simples e robustas antes de complexidades desnecessárias, sem perder de vista escalabilidade futura.
+- **Prevenção antes de correção** — monitoro, automatizo e crio alertas para evitar que problemas cheguem ao usuário final.
+- **Colaboração verdadeira** — gosto de trabalhar próximo de outros devs, designers e ops, porque sei que bons produtos nascem do trabalho conjunto.
 
 ---
 
