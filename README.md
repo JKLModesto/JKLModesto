@@ -18,6 +18,31 @@ Construo APIs rápidas, seguras e observáveis.
 
 ---
 
+## 📊 GitHub Stats
+<div align="center">
+
+<!-- Troque o usuário se necessário -->
+<a href="https://github.com/JKLModesto">
+  <img src="https://github-readme-stats.vercel.app/api?username=JKLModesto&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
+</a>
+
+<a href="https://github.com/JKLModesto">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKLModesto&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top Langs" />
+</a>
+
+<a href="https://github.com/JKLModesto">
+  <img src="https://streak-stats.demolab.com?user=JKLModesto&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&theme=transparent" alt="GitHub Streak" />
+</a>
+
+<!-- Opcional: gráfico de atividade (pode demorar para carregar)
+<a href="https://github.com/JKLModesto">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JKLModesto&hide_border=true&theme=github-compact" alt="Activity Graph" />
+</a> -->
+
+</div>
+
+---
+
 ## 🧰 Stack principal
 
 **Linguagens & Runtime**
@@ -44,31 +69,6 @@ Construo APIs rápidas, seguras e observáveis.
 - Estudando **NestJS** avançado (pipes, interceptors, modules dinâmicos, CQRS) e **Prisma** (transações, middlewares, migrations sólidas).
 - Aprofundando **padrões distribuídos**: Pub/Sub, Circuit Breaker, Idempotência, Retry/Backoff, Outbox.
 - Trabalho com **agentes de IA** e automações no **n8n**.
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-
-<!-- Troque o usuário se necessário -->
-<a href="https://github.com/JKLModesto">
-  <img src="https://github-readme-stats.vercel.app/api?username=JKLModesto&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub Stats" />
-</a>
-
-<a href="https://github.com/JKLModesto">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKLModesto&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top Langs" />
-</a>
-
-<a href="https://github.com/JKLModesto">
-  <img src="https://streak-stats.demolab.com?user=JKLModesto&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&theme=transparent" alt="GitHub Streak" />
-</a>
-
-<!-- Opcional: gráfico de atividade (pode demorar para carregar)
-<a href="https://github.com/JKLModesto">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JKLModesto&hide_border=true&theme=github-compact" alt="Activity Graph" />
-</a> -->
-
-</div>
 
 ---
 
